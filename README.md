@@ -3,6 +3,9 @@
 ## 📌 Project Overview
 This repository contains my Capstone Project for the **Google Data Analytics Professional Certificate**. The goal of this analysis is to understand how **annual members** and **casual riders** use Cyclistic bikes differently in Chicago. These insights will help design a marketing strategy to convert casual riders into long-term annual members.
 
+![](<img width="1344" height="960" alt="image" src="https://github.com/user-attachments/assets/3fa08958-d08e-42be-8756-b93c9c961930" />)
+
+
 ## 📊 Quick Links
 * [View Full Interactive Report](https://msawan4203.github.io/Cyclistic_Bike_Share_Analysis_using_R/cyclist_simple.html)
 * [R Markdown Script](https://msawan4203.github.io/Cyclistic_Bike_Share_Analysis_using_R/cyclist_simple.Rmd)
