@@ -7,8 +7,8 @@ This repository contains my Capstone Project for the **Google Data Analytics Pro
 
 
 ## 📊 Quick Links
-* [View Full Interactive Report](https://msawan4203.github.io/Cyclistic_Bike_Share_Analysis_using_R/cyclist_simple.html)
-* [R Markdown Script](https://msawan4203.github.io/Cyclistic_Bike_Share_Analysis_using_R/cyclist_simple.Rmd)
+* [View Full Interactive Report](https://msawan4203.github.io/Cyclistic_Bike_Share_Analysis_using_R/cyclist_simple_R.html)
+* [R Markdown Script](https://msawan4203.github.io/Cyclistic_Bike_Share_Analysis_using_R/cyclist_simple_R.Rmd)
 
 ## 🛠️ Tools Used
 * **Language:** R (version 4.x)
