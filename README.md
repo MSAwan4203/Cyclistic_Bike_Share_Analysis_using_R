@@ -34,5 +34,5 @@ The analysis utilized **12 months of historical trip data** (stored as CSVs) pro
 ---
 **Author:** Muhammad Saad  
 **Contact:** 
-[jawadawan4203@gmail.com](mailto:jawadawan4203@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jawadawan4203@gmail.com)
 [Linkedin Profile](https://www.linkedin.com/in/muhammad-saad-2527042a4/)
