@@ -2,3 +2,4 @@
 * text=auto
 *.Rmd linguist-detectable
 *.rmd linguist-detectable
+*.Rmd linguist-language=R
